@@ -1,0 +1,13 @@
+# Java compiled files
+/bin/
+/build/
+/out/
+*.class
+
+# Eclipse local metadata
+.metadata/
+.settings/org.eclipse.core.resources.prefs
+
+# Operating system files
+.DS_Store
+Thumbs.db
